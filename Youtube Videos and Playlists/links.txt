@@ -1,7 +1,7 @@
 https://www.youtube.com/watch?v=O5lUndThiOY&list=PLdBCss8jvEHSQ0YmCWsNSimkUeQZH31lH,Engineering Mechanics Playlist, Complete Playlist For Engineering Mechanics Covering Concurrent and Non Concurrent Force Systems, Beam, Friction, Trusses, Centroid, Moment of Inertia, Kinematics, Kinetics, Simple Stress And Strain.
 https://www.youtube.com/watch?v=t2_Q2BRzeEE&list=PLGjplNEQ1it8-0CmoljS5yeV-GlKSUEt0,Python Programming Playlist, Complete Playlist Covering All Programming Concepts And Topics From Syllabus Although Some Theoretical Topics Are Missing.
 https://youtu.be/irqbmMNs2Bo?si=QMr6PDCUZ9FPzGSG,C Programming One Shot,Complete Video Covering All Programming Concepts In C Although Lacking In Theoretical Concepts Like Flowchart, Algorithms And Pseudocode.
-https://www.youtube.com/watch?v=AT14lCXuMKI&list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU,Data Structures Using C Playlist, Complete Data Structures Playlist Covering Almost All Topics From Syllabus (Some Videos Could Be Skipped Study Topic Wise)
+https://www.youtube.com/watch?v=5_5oE5lgrhw&list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi,Data Structures Using C Playlist, Complete Data Structures Playlist Covering Almost All Topics From Syllabus (Some Videos Could Be Skipped Study Topic Wise)
 
 
 
